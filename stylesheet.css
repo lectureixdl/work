@@ -1,0 +1,85 @@
+div{
+    display:inline-block;
+	height: 50px;
+	width: 50px;
+	overflow:hidden;
+    position:relative;
+}
+
+#rap{
+    width: 1230px;
+    height:920px;
+    padding:10PX;
+    margin:100 0 0 100;
+}
+
+.card{
+    width:300px;
+    height:300px;
+}
+
+.A {
+    background-image: url('img/back.jpg');
+}
+
+.B {
+    background-image: url('img/back.jpg');
+}
+
+.C {
+	background-image: url('img/back.jpg');
+}
+
+.D {
+	background-image: url('img/back.jpg');
+}
+.E {
+	background-image: url('img/back.jpg');
+}
+
+.F {
+	background-image: url('img/back.jpg');
+}
+
+.G {
+	background-image: url('img/back.jpg');
+}
+
+.H {
+	background-image: url('img/back.jpg');
+}
+.I {
+	background-image: url('img/back.jpg');
+}
+
+.J {
+	background-image: url('img/back.jpg');
+}
+
+.K {
+	background-image: url('img/back.jpg');
+}
+
+.L {
+	background-image: url('img/back.jpg');
+}
+
+/*깔려있는 그림들*/
+.A1{
+    background-image: url('img/1.jpg');
+}
+.B1{
+    background-image: url('img/2.jpg');
+}
+.C1{
+    background-image: url('img/3.jpg');
+}
+.D1{
+    background-image: url('img/4.jpg');
+}
+.E1{
+    background-image: url('img/5.jpg');
+}
+.F1{
+    background-image: url('img/6.jpg');
+}
